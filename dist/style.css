@@ -843,6 +843,10 @@ video {
     display: flex;
   }
 
+  .md\:hidden {
+    display: none;
+  }
+
   .md\:h-full {
     height: 100%;
   }
