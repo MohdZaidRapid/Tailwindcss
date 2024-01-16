@@ -644,6 +644,14 @@ video {
   width: 11rem;
 }
 
+.w-\[\] {
+  width: ;
+}
+
+.w-\[90\%\] {
+  width: 90%;
+}
+
 .max-w-sm {
   max-width: 24rem;
 }
@@ -670,6 +678,10 @@ video {
 
 .justify-between {
   justify-content: space-between;
+}
+
+.justify-around {
+  justify-content: space-around;
 }
 
 .justify-evenly {
